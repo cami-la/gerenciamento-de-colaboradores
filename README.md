@@ -1,6 +1,8 @@
 <h1> Mentoria: Abstraindo situações do mundo real com Orientação a
 Objetos </h1>
 
+<h2 align="center"> ⚠️ <a href="https://docs.google.com/presentation/d/1p5cRK-hctz-_ZpU_MGXs6xI09FdBwryW/edit?usp=sharing&ouid=101929589707990413603&rtpof=true&sd=true"> SLIDES DA MENTORIA </a> ⚠️ </h2>
+
 O objetivo principal é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA, COMPOSIÇÃO E POLIMORFISMO</strong> através de um projeto Java. </p>
 
 
